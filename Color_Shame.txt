@@ -1,0 +1,17 @@
+E6E6E6
+F1 F1 F1
+C5 C5 C5
+F1F1F1 - светло серый
+E6 E6 E6
+
+
+FFFCF4 - светло серый
+C6 C6 C6
+E6 E6 E6
+2A579A - Заголовок
+3E6DB6 - выделение заголовка
+
+E81123 - Красный
+4A5668 - темный для tool tip
+
+<Setter Property="Background" Value="#4A5668"/>
